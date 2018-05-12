@@ -1,0 +1,33 @@
+_repo: Voyages-from-Montreal-Through-the-Continent-of-North-America-to-the-Frozen-and-Pacific-Oceans__35659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mackenzie, Alexander
+    alias: Mackenzie, Sir Alexander
+    birthdate: 1764
+    deathdate: 1820
+    gutenberg_agent_id: '37812'
+    url: http://www.gutenberg.org/2009/agents/37812
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Mackenzie_(explorer)
+description: ''
+gutenberg_issued: '2011-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Description and travel'
+- !lcsh 'Fur trade -- Canada'
+- !lcc 'F1001'
+- !lcsh 'Indians of North America -- Canada -- Languages -- Glossaries, vocabularies,
+  etc.'
+- !lcsh 'Indians of North America -- Canada'
+title: Voyages from Montreal Through the Continent of North America to the Frozen
+  and Pacific Oceans in 1789 and 1793. Vol. II
+url: http://www.gutenberg.org/ebooks/35659
