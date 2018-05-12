@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37812
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Mackenzie_(explorer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35659#Voyages-from-Montreal-Through-the-Continent-of-North-America-to-the-Frozen-and-Pacific-Oceans_
 gutenberg_issued: '2011-03-22'
 gutenberg_type: Text
 identifiers:
